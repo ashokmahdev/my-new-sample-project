@@ -4,7 +4,7 @@ This project demonstrates a simple e-commerce application for an imaginary organ
 
 http://programmingwithmosh.com/courses/complete-angular-master-class/
 
-In this course, you'll see how I've built this application, step-by-step.
+ASHOKA - In this course, you'll see how I've built this application, step-by-step.
 
 By the end of watching course, you'll be able to:
 
